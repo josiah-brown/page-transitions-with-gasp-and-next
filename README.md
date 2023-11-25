@@ -3,7 +3,7 @@
 ## Page Transitions with GSAP + Next.js App Router
 This is a simple demo of how to create page transition animations with GSAP and the Next.js App Router for a blog article I wrote in November 2023.
 
-Blog post tutorial is available here: link
+View the [blog article here.](https://medium.com/@josiah.webdev/page-transitions-with-gsap-next-js-app-router-5508cee43a80)
 
 ## Run Locally
 
